@@ -1,0 +1,16 @@
+{
+    "name": "oAuth2-MSGraph-Token-Endpoint",
+    "version": "1.0.0",
+    "description": "",
+    "main": "auth.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Deep Patel",
+    "dependencies": {
+        "@microsoft/microsoft-graph-client": "^0.3.2",
+        "express": "^4.13.4",
+        "express-session": "^1.13.0",
+        "request": "^2.72.0"
+    }
+}
